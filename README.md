@@ -35,13 +35,14 @@ http://localhost/
 ### ベンチマーク実行
 
 ```
-cd ~isucon/isucari
-bin/benchmark
+cd ~/isuumo/bench
+./bench -target-url http://127.0.0.1
 ```
 
-## 参考
+## 関連
 
 * [ISUCON10予選問題](https://github.com/isucon/isucon10-qualify)
+* [matsuu/wsl-isucon9-qualifier](https://github.com/matsuu/wsl-isucon9-qualifier)
 
 ## TODO
 
